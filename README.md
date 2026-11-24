@@ -6,7 +6,7 @@ Sales Analysis and Business Intelligence project using Excel and Power BI to ide
 ## Project Overview
 This project focuses on analyzing Northwind Traders' sales data using Excel and Power BI to identify business trends, evaluate performance, and generate meaningful insights.
 
-## Objectives
+## Objective
 - Clean and transform raw sales data.
 - Perform data modelling and establish relationships.
 - Create DAX measures for business calculations.
